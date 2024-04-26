@@ -20,3 +20,4 @@
 14- Abra, substitua e gere arquivos do Word automaticamente.
 15- Crie certificados em massa e personalize conteúdo.
 
+Lembre-se de instalar as Bicliotecas PyAutoGui para realizar as tarefas.
