@@ -1,4 +1,0 @@
-Qauntidade de Produtos     Nome do Produto           Preço do Produto 
-5                          Sansung A3                R$ 1.500
-6 			   Fone 		     R$ 20.00
-7			   Tv Led Sansung 30pol      R$ 2.000
